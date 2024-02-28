@@ -1,0 +1,18 @@
+body {
+  background-image: url(https://www.nasa.gov/wp-content/uploads/2023/01/webb-tarantula-neb.png?resize=1536,1199);
+
+  color: white;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding-top: 50px;
+  font-size: 20px;
+  font-weight: 600;
+  flex-direction: column;
+}
+
+img {
+  max-width: 50%;
+}
